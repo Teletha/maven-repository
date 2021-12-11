@@ -1,1 +1,1 @@
-Maven Repository
+Public Maven Repository
